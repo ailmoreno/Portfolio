@@ -46,8 +46,8 @@ a {
 #hero h1{
     display: block;
     width: fit-content;
-    position: relative;
-    left: 240px;
+    position: fixed;
+    left: 310px;
     font-size: 4rem;
     position: relative;
     color: aliceblue;
@@ -84,7 +84,7 @@ a {
 #hero .cta {
   display: inline-block;
   position: relative;
-  left: 390px;
+  left: 378px;
   padding: 10px 30px;
   color:rgb(255, 255, 255);
   background-color: transparent;
