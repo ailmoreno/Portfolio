@@ -24,7 +24,7 @@ a {
 
 /*Hero Section*/
 #hero {
-  background-image: url(Example.jpg);
+  background-image: url(pic1.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
@@ -47,7 +47,7 @@ a {
     display: block;
     width: fit-content;
     position: relative;
-    left: 220px;
+    left: 240px;
     font-size: 4rem;
     position: relative;
     color: aliceblue;
@@ -59,6 +59,7 @@ a {
   font-size: 2rem;
   position: relative;
   top: 9px;
+  left: 20px;
   color: transparent;
   animation: text_reveal .5s ease forwards;
   animation-delay: 1.5s;
@@ -76,7 +77,7 @@ a {
   width: 0;
   background-color: crimson;
   animation: text_reveal_box 2s ease;
-  animation-delay: 1s;
+  animation-delay: .5s;
 
 }
 
