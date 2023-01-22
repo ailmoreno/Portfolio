@@ -339,7 +339,7 @@ body{
 }
 .nav ul li a:hover{
   text-decoration: none;
-  color: rgb(220, 20, 150);
+  color: crimson;
 }
 .nav ul li a:after{
   display: block;
